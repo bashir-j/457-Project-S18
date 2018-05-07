@@ -1,0 +1,21 @@
+{
+  "_id": "6544721165",
+  "_rev": "2-1c3d32ea88aafd764e51a80703e6ed05",
+  "paintings": [
+    {
+      "art_piece": "Michelangelo’s Dying Slave (1513-1516)",
+      "image": "images/michelangelo-slave.jpg",
+      "description": "The Dying Slave is a sculpture by the Italian Renaissance artist Michelangelo. Created between 1513 and 1516, it was to serve with another figure, the Rebellious Slave, at the tomb of Pope Julius II. It is a marble figure 2.15 metres (7' 4') in height, and is held at the Louvre, Paris. In 1976 the art historian Richard Fly wrote that it 'suggests that moment when life capitulates before the relentless force of dead matter'. However, in a recent scholarly volume entitled The Slave in European Art, Charles Robertson discusses the Dying Slave in the context of real slavery in Italy during the time of the Renaissance."
+    },
+    {
+      "description": "Venus and the Three Graces Presenting Gifts to a Young Woman, also known as Giovanna degli Albizzi Receiving a Gift of Flowers from Venus (Italian: Venere e le tre Grazie offrono doni a una giovane), is a fresco painting by the Italian Renaissance painter Sandro Botticelli of circa 1483-1486. The painting and its companion piece, A Young Man Being Introduced to the Seven Liberal Arts, originally decorated the walls of Villa Lemmi, a country villa near Florence owned by Giovanni Tornabuoni, uncle of Lorenzo de' Medici and head of the Roman branch of the Medici Bank. They were probably commissioned for the wedding in 1486 of Giovanni's son Lorenzo to Giovanna of the Albizzi family, and are therefore thought to depict the two.",
+      "art_piece": "Botticelli’s Venus with Three Graces (1483-1486)",
+      "image": "images/1200px-Sandro_Botticelli_027.jpg"
+    },
+    {
+      "image": "images/Estrées.jpg",
+      "art_piece": "Gabrielle d’Estrées and Her Sister, The Duchess of Villars (1594)",
+      "description": "Gabrielle d'Estrées, Duchess of Beaufort and Verneuil, Marchioness of Monceaux[1] (French pronunciation: [gab?i?l d?st?e]; 1573[2][3] – 10 April 1599) was a mistress, confidante and adviser of Henry IV of France. She persuaded Henry to renounce Protestantism in favour of Catholicism in 1593. Later she urged French Catholics to accept the Edict of Nantes, which granted certain rights to the Protestants. It was legally impossible for the king to marry her, because he was already married to Margaret of Valois, but he acknowledged Gabrielle as the mother of three of his children, and as 'the subject most worthy of our friendship'.[4]"
+    }
+  ]
+}

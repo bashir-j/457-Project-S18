@@ -1,0 +1,16 @@
+{
+  "_id": "6551642808",
+  "_rev": "4-fe9f29facc12d7311b8648ab0cadb860",
+  "paintings": [
+    {
+      "art_piece": "Leonardo da Vinci’s Mona Lisa (1503-1506)",
+      "image": "/images/Monalisa.JPG",
+      "description": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci that has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'.The Mona Lisa is also one of the most valuable paintings in the world. It holds the Guinness World Record for the highest known insurance valuation in history at $100 million in 1962, which is worth nearly $800 million in 2017."
+    },
+    {
+      "image": "/images/Victoire_de_Samothrace.JPG",
+      "art_piece": "Winged Victory of Samothrace (190 BC, Ancient Greece)",
+      "description": "The Winged Victory of Samothrace, also called the Nike of Samothrace, is a marble Hellenistic sculpture of Nike (the Greek goddess of victory), that was created about the 2nd century BC. Since 1884, it has been prominently displayed at the Louvre and is one of the most celebrated sculptures in the world. H.W. Janson described it as 'the greatest masterpiece of Hellenistic sculpture', and it is one of a small number of major Hellenistic statues surviving in the original, rather than Roman copies."
+    }
+  ]
+}
