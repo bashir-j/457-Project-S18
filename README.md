@@ -18,9 +18,9 @@ Head to the file phase3/www/js/controllers.js , and at the top of the file, edit
 
 Then using your command prompt, cd into the directory phase3, and run:
 
-    ```ionic cordova platform add <platform>
-       ionic cordova build <platform> --device
-    ```
+    ionic cordova platform add <platform>
+    ionic cordova build <platform> --device
+
 Your app should be up and running!
 
 ## Server Setup
