@@ -22,7 +22,7 @@ or whichever platform you would like
 Your app should be up and running!
 
 ## Server Setup
-Download the two files in the "Server" folder, and run ip_server_no_cookie.js using node, your server should be working now!
+Download the two files in the "ServerFiles" folder, and run ip_server_no_cookie.js using node, your server should be working now!
 
 ## CouchDB Setup
 Download the two files in the "Database" folder, and place both json objects in a new CouchDB database called ip_proj_data. The "_id" field represents a combination of the major+minor of the beacon in that room.
